@@ -1,4 +1,7 @@
 # Proyecto-BBDD-Casa-Chen
+
+![pantallazo dashboard](https://github.com/user-attachments/assets/2c1ac8dd-9cae-44bb-852a-922b63bd7642)
+
 ### Planificacion y organizacion básica:
 -   Creacion del grupo de Discord para comunicación.
 -   Creación de carpeta de Google Drive para almacenar y/o compartir documentos en el grupo.
@@ -28,5 +31,6 @@
 -  Identificación de los factores más influyentes en las valoraciones del restuarante
 -  Identificación de las cocinas más populares
   
+Accede al análisis aquí: https://goo.su/MaCznY
 
 ✨ Creado por [Alberto Domínguez](https://github.com/CobaltHeron) , [Azahara García](https://github.com/Azaharag1984) y [Saleh Daf](https://github.com/SalehDM) 
