@@ -28,3 +28,5 @@
 -  Identificación de los factores más influyentes en las valoraciones del restuarante
 -  Identificación de las cocinas más populares
   
+
+✨ Creado por [Alberto Domínguez](https://github.com/CobaltHeron) , [Azahara García](https://github.com/Azaharag1984) y [Saleh Daf](https://github.com/SalehDM) 
