@@ -39,13 +39,13 @@ Basado en los datos, se propusieron las siguientes acciones:
 ---
 
 ## 🔗 Enlaces del Proyecto
-* **[Accede al Dashboard en Looker Studio aquí]** https://goo.su/MaCznY
+* **Accede al Dashboard en Looker Studio aquí** (https://goo.su/MaCznY)
 * **[Ver Notebook de Limpieza/Análisis]** (Añade link a tu carpeta /notebooks)
 
 ## 👥 Equipo y Colaboración
 Este proyecto fue desarrollado de manera colaborativa, participando todos los integrantes en cada una de las fases (limpieza, análisis y visualización):
 
-*   **[Saleh Daf]** — [https://github.com/SalehDM]
+*   **Saleh Daf** — [https://github.com/SalehDM]
 *   **Alberto Domínguez** — [https://github.com/CobaltHeron]
 *   **Azahara García** — [https://github.com/Azaharag1984]
 
