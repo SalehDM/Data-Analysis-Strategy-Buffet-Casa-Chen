@@ -1,36 +1,52 @@
-# Proyecto-BBDD-Casa-Chen
+# 🍱 Data Analysis & Strategy: Buffet Casa Chen (Gran Canaria)
 
 ![pantallazo dashboard](https://github.com/user-attachments/assets/2c1ac8dd-9cae-44bb-852a-922b63bd7642)
 
-### Planificacion y organizacion básica:
--   Creacion del grupo de Discord para comunicación.
--   Creación de carpeta de Google Drive para almacenar y/o compartir documentos en el grupo.
--   Creacion de repositorio GitHub del proyecto.
--   Creacion de Project Board, Table & Roadmap para seguimiento de tareas del Proyecto.
+## 📌 Resumen del Proyecto
+Este proyecto consiste en un análisis integral de los datos de consumo del **Buffet Casa Chen**. El objetivo principal fue transformar datos brutos de clientes en insights accionables para optimizar la estrategia de marketing y el menú del restaurante.
 
-### Data Profiling
--  Visualización inicial del Dataset para entender su estructura, contenido y calidad iniciales.
--  Análisis descriptivo preliminar de las columnas de mayor relevancia: Género, Edad, Budget, Ratings.
--  Generación de gráficos preeliminares para visualizar la distribución inicial de los datos de cada columna, así como de los primero datos descriptivos de algunas de ellas (en especial: media, mediana y desviación estandar/típica).
+> **Insight Clave:** Se identificó un nicho estratégico de público joven (16–25 años) con una alta preferencia por la comida japonesa, lo que permitió diseñar recomendaciones específicas de fidelización y redes sociales.
 
-### Data Cleaning
--  Revisión del dataset para identificar posibles valores duplicados, erroneos o ausentes.
--  Detección de valores atípicos/outliners.
--  Eliminación de filas duplicadas (n = 20).
--  Formateo de columnas.
--  Eliminación los IDs duplicados (n = 9).
--  Eliminación de las columnas irrelevantes.
--  Manejo de valores faltantes: eliminamos varias filas (relacionadas con dos variables) y el resto de valores los imputamos con la media, la mediana o la moda.
--  Estandarización de datos: identificar y corregir los valores que no estaban correctamente registrados.
--  Validación de formato.
--  Documentar los cambios.
+## 🛠️ Herramientas Utilizadas
+* **Limpieza y Procesamiento:** Python (Pandas/NumPy)
+* **Visualización:** Google Looker Studio
+* **Gestión:** GitHub, Project Board (Agile), Discord
 
-### Analysis
--  Análisis de los requerimientos del cliente.
--  Análisis del perfil de cliente
--  Identificación de los factores más influyentes en las valoraciones del restuarante
--  Identificación de las cocinas más populares
-  
-Accede al análisis aquí: https://goo.su/MaCznY
+## 📈 Proceso de Análisis
 
-✨ Creado por [Alberto Domínguez](https://github.com/CobaltHeron) , [Azahara García](https://github.com/Azaharag1984) y [Saleh Daf](https://github.com/SalehDM) 
+### 1. Data Profiling & Cleaning
+Se realizó un proceso riguroso de auditoría de datos para asegurar la fiabilidad de las conclusiones:
+* **Calidad de Datos:** Identificación de outliers y manejo de valores faltantes mediante imputación estadística (media/mediana/moda).
+* **Depuración:** Eliminación de 20 registros duplicados y 9 IDs redundantes.
+* **Estandarización:** Normalización de formatos y eliminación de columnas irrelevantes para el objetivo de negocio.
+
+### 2. Análisis Descriptivo (EDA)
+Exploración de variables críticas: `Género`, `Edad`, `Budget` y `Ratings`. 
+* Cálculo de métricas de tendencia central y dispersión para entender el comportamiento base del consumidor.
+* Análisis de correlación entre el presupuesto del cliente y su valoración del servicio.
+
+### 3. Insights y Resultados Clave
+* **Segmentación:** El segmento más rentable y frecuente se sitúa entre los 16 y 25 años.
+* **Preferencias:** Existe una dominancia clara de la cocina japonesa sobre otras opciones del buffet en este segmento.
+* **Factores de Valoración:** Identificación de los elementos que más influyen en el sistema de ratings del restaurante.
+
+## 🚀 Recomendaciones de Negocio
+Basado en los datos, se propusieron las siguientes acciones:
+1. **Marketing Digital:** Campañas segmentadas en TikTok e Instagram dirigidas al público 16-25 años.
+2. **Optimización de Menú:** Ampliación de la sección japonesa para maximizar la satisfacción del público objetivo.
+3. **Fidelización:** Implementación de un programa de puntos basado en las preferencias detectadas.
+
+---
+
+## 🔗 Enlaces del Proyecto
+* **[Accede al Dashboard en Looker Studio aquí]** https://goo.su/MaCznY
+* **[Ver Notebook de Limpieza/Análisis]** (Añade link a tu carpeta /notebooks)
+
+## 👥 Equipo y Colaboración
+Este proyecto fue desarrollado de manera colaborativa, participando todos los integrantes en cada una de las fases (limpieza, análisis y visualización):
+
+*   **[Saleh Daf]** — [https://github.com/SalehDM]
+*   **Alberto Domínguez** — [https://github.com/CobaltHeron]
+*   **Azahara García** — [https://github.com/Azaharag1984]
+
+*Nota: Al ser un equipo multidisciplinar, todos los miembros contribuyeron equitativamente en el ciclo completo de análisis de datos.*
