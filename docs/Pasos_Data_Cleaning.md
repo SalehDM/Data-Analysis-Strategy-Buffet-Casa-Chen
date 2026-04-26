@@ -30,4 +30,4 @@ Este fue el paso más crítico para el análisis de la cocina japonesa:
 *   **Guardado Final:** Exportación del archivo `data/BBDD_Processed_Final.xlsx` listo para su conexión con el dashboard.
 
 ---
-> **Impacto del proceso:** Gracias a esta limpieza, se logró aumentar la precisión del análisis de preferencias gastronómicas en un 15%, asegurando que la recomendación de potenciar el menú japonés estuviera basada en datos íntegros.
+> **Impacto del proceso:** Gracias a la eliminación de duplicados y la estandarización de categorías, se eliminó el sesgo en las preferencias gastronómicas, asegurando que la recomendación de potenciar el menú japonés se base en datos íntegros y representativos del comportamiento real del cliente.
