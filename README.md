@@ -7,9 +7,18 @@ Este repositorio contiene un proyecto integral de consultoría estratégica y Bu
 
 El objetivo central fue auditar, procesar y transformar datos transaccionales y de encuestas del establecimiento para corregir problemas operativos, identificar patrones demográficos de consumo y optimizar la toma de decisiones basada en datos reales de negocio.
 
-**El Reto del Cliente:** *"¿Quiénes son nuestros clientes reales, qué cocina prefieren dentro del buffet y qué factores específicos y estadísticos hacen que nos valoren positivamente?"*
+---
 
-> **Insight Maestro:** Identificamos que el modelo de negocio depende críticamente de un público joven y estudiantil (15-24 años) que representa el **61% de la clientela total**, teniendo una preferencia masiva por la **comida japonesa**. Paralelamente, se detectó un nicho altamente rentable en el segmento de **divorciados** con valoraciones sobresalientes (medias de **4.5 a 4.92/5**). No obstante, se descubrió una alarmante tasa de no-retención del **86.7%**, reorientando la estrategia de la empresa hacia la fidelización digital urgente.
+## 🏢 Contexto del Negocio y Solicitud del Cliente
+El restaurante **Buffet Casa Chen**, ubicado en la zona de Las Canteras (Las Palmas de Gran Canaria), se enfrentaba al reto de optimizar su estrategia de fidelización y mejorar la experiencia de sus comensales. Para abordar esta problemática, el establecimiento proporcionó una base de datos anónima con registros de sus clientes (incluyendo variables demográficas, hábitos de consumo, presupuestos, tipos de cocina preferida y calificaciones detalladas del servicio y la comida).
+
+### 🎯 Solicitud Central del Cliente:
+> *"Nos gustaría comprender mejor quiénes son nuestros clientes, qué tipo de cocina prefieren y qué factores influyen en que nos valoren bien o mal. Con esta información, queremos tomar decisiones que nos ayuden a mejorar la fidelización y la satisfacción general."*
+
+*   **Comprender el Perfil del Cliente**: Identificar patrones demográficos clave (edad, género, ocupación y presupuesto).
+*   **Auditar la Oferta Gastronómica**: Detectar qué tipos de cocina tienen mayor volumen de demanda y cuáles reportan mejor satisfacción.
+*   **Identificar Drivers de Valor**: Aislar los factores estadísticos y operativos que influyen directamente en la valoración del buffet.
+*   **Acciones Prácticas**: Diseñar recomendaciones de negocio de alto impacto basadas exclusivamente en la evidencia de los datos analizados.
 
 ---
 
@@ -51,7 +60,7 @@ Tras consolidar el pipeline de datos y construir el cuadro de mando interactivo 
 *   **📍 Análisis por Ubicación:** Tamaraceite lidera la satisfacción general del buffet (Mediana de 3.5), mientras que la zona de Mesa y López presenta el rendimiento más bajo y requiere optimización operativa urgente (Mediana de 3.0). Por su parte, Siete Palmas muestra opiniones altamente polarizadas registrando una **Varianza de 1.48**.
 *   **👥 Psicografía y Consumo:** Los clientes casados tienden a puntuar consistentemente a la baja (promedios entre 2.37 y 2.89), mientras que el consumo social de alcohol se correlaciona directamente con las mejores experiencias de usuario y notas más altas de satisfacción.
 *   **🔴 Riesgo Operativo (La Paradoja Filipina):** La cocina Filipina es una de las más consumidas en volumen, pero registra la satisfacción más baja con un **3.04/5.00** (-0.16 por debajo de la media global). Esto sugiere una necesidad urgente de revisar recetas, sazón o frescura de insumos en barra.
-*   **🟢 Éxito de la Cocina Japonesa:** Se consolida como la diferenciación clave y el producto estrella del buffet, liderando los índices de satisfacción con una media de **3.58/5.00** (+0.38 por encima de la media global de 3.2), especialmente impulsada por el segmento de 15 a 24 años.
+*   **🟢 Éxito de la Cocina Japonesa:** Se consolida como la diferenciación clave y el producto estrella del buffet, liderando los índices de satisfacción con una media de **3.58/5.00** (+0.38 por encima de la media global de 3.2), impulsada con fuerza por el segmento joven (15 a 24 años) que representa el **61% de la clientela total** y el nicho de divorciados (medias de **4.5 a 4.92/5**).
 
 ---
 
@@ -89,7 +98,7 @@ Basado en la evidencia sólida de los datos, se propusieron tres líneas de acci
 ---
 
 ## 👥 Equipo y Colaboración
-Este proyecto fue desarrollado de manera colaborativa, participando todos los integrantes de forma equitativa en el ciclo completo de ingeniería de datos, modelado analítico y consultoría estratégica:
+Este proyecto fue desarrollado de manera colaborativa, participando todos los integrantes de forma que cada miembro contribuyó equitativamente en el ciclo completo de ingeniería de datos, modelado analítico y consultoría estratégica:
 
 *   **Saleh Daf** — [GitHub Profile](https://github.com)
 *   **Alberto Domínguez** — [GitHub Profile](https://github.com)
